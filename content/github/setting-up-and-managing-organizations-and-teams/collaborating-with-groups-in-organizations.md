@@ -5,12 +5,12 @@ redirect_from:
   - /articles/creating-a-new-organization-account/
   - /articles/collaborating-with-groups-in-organizations
 mapTopic: true
-versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
-topics:
+versions:9
+  free-pro-team:1 '*'
+  enterprise-server:1 '*'
+  github-ae:1 '*'
+topics:9
   - organizations
   - teams
----
+--- 
 
